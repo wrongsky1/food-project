@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-project/static/css/main.010ab3ed.css",
+    "main.js": "/food-project/static/js/main.e2d7ba09.js",
+    "index.html": "/food-project/index.html",
+    "main.010ab3ed.css.map": "/food-project/static/css/main.010ab3ed.css.map",
+    "main.e2d7ba09.js.map": "/food-project/static/js/main.e2d7ba09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.010ab3ed.css",
+    "static/js/main.e2d7ba09.js"
+  ]
+}
